@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Jain</h1>
 <h3 align="center">I am a second year student pursuing Artificial Intelligence and machine learning.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.designyourway.net/blog/wp-content/uploads/2018/12/programming-wallpaper7-700x525.jpg">
+<img align="right" alt="Coding" width="300" src="https://www.designyourway.net/blog/wp-content/uploads/2018/12/programming-wallpaper7-700x525.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanmodi65&label=Profile%20views&color=0e75b6&style=flat" alt="namanmodi65" /> </p>
 
